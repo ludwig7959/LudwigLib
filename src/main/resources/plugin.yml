@@ -1,0 +1,3 @@
+name: LudwigLib
+main: xyz.ludwicz.library.LudwigLib
+version: ${project.version}

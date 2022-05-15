@@ -1,0 +1,16 @@
+REDIS:
+  ENABLED: false
+  LOCAL:
+    HOST: "localhost"
+    PORT: 6379
+    DBID: 3
+    AUTH:
+      ENABLED: false
+      PASSWORD: ""
+  BACKBONE:
+    HOST: "localhost"
+    PORT: 6379
+    DBID: 4
+    AUTH:
+      ENABLED: false
+      PASSWORD: ""
